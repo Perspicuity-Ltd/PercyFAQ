@@ -1,1 +1,33 @@
-theme: jekyll-theme-slate
+title: Percy Docs
+description: How to articles and detailed documents for Percy usage
+baseurl: /PercyFAQ
+remote_theme: pmarsceill/just-the-docs
+
+permalink: pretty
+
+# Set a path/url to a logo that will be displayed instead of the title
+#logo: "/assets/images/just-the-docs.png"
+
+# Enable or disable the site search
+search_enabled: true
+
+# Set the search token separator for hyphenated-word search:
+search_tokenizer_separator: /[\s/]+/
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Improve the docs":
+    - "github.com/Perspicuity-Ltd/PercyFAQ"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2020 Perspicuity Ltd"
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nil
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+#ga_tracking: UA-2709176-10
