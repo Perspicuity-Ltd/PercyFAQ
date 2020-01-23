@@ -1,4 +1,5 @@
-## Add New
+## Add New Content
+This depends what type of content you would like to add.
 
 ### How do I create a Page Template? 
 Creating a template is simple and useful if you want to keep a consistent style for your pages. 
